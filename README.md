@@ -1,11 +1,14 @@
 # <h1 align="center">Site Robotron 2000</h1>
+<br>
 
-![Imagem do site da AluraPlus Desktop](./layout/Mochila_viagem.png)
+![Imagem do site Robotron 2000 desktop](./Layout/site_desktop_Robotron.png)
 
 <h2 align="center"> Descrição do Projeto </h2>
 <br>
 <p align="justify">
-    
+    Site desenvolvido pelo instrutor da Alura quem ministrou o curso "JavaScript: manipulando o DOM".<br>
+    <br>
+    A publicação deste site foi efetuada neste repositório GitHub para demonstrar os conhecimentos adquiridos quando manipula-se objetos em JavaScript.
 </p>
 <br>
 
@@ -14,15 +17,16 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" with="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" with="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="40" height="40">      </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="40" height="40">      
+</div>
 
 <br>
 
 <p align="justify">
-Ao salvar os dados lançados nos campos correspondentes, eles são armazenados dinamicamente na página, sendo possível modificá-las.<br>
+    Ao clicar no botão com o sinal de "+" ou de "-" no menu dos itens/recursos de robô, a quantidade deles é atualizada automaticamente, assim como os cálculos de força, poder, energia e velocidade.<br>
+<br>
+Também é possível alterar as cores do robô, clicando na cor no menu correspondente.
 </p>
-
-![Imagem do site da AluraPlus Desktop](./layout/Site_Mochila_com_dados.png)
 
 <br>
           
